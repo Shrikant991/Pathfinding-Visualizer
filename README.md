@@ -1,6 +1,6 @@
 # Pathfinder Visualizer
 
-Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action, also some maze generation is applied to it. This application is built by using React js and p5js wrapper.You can access it here : Link
+Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action, also some maze generation is applied to it. This application is built by using React js and p5js wrapper.You can access it here : [Link](https://shrikant991.github.io/Pathfinding-Visualizer/)
 
 --
 
